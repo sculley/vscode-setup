@@ -1,0 +1,10 @@
+{
+    "editor.accessibilitySupport": "off",
+    "redhat.telemetry.enabled": true,
+    "editor.fontFamily": "MesloLGS NF,Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 11,
+    "telemetry.telemetryLevel": "off",
+    "update.showReleaseNotes": false,
+    "terminal.external.osxExec": "iTerm.app",
+    "workbench.colorTheme": "GitHub Dark"
+}
