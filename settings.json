@@ -6,5 +6,9 @@
     "telemetry.telemetryLevel": "off",
     "update.showReleaseNotes": false,
     "terminal.external.osxExec": "iTerm.app",
-    "workbench.colorTheme": "GitHub Dark"
+    "workbench.colorTheme": "GitHub Dark",
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ]
 }
